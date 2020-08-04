@@ -12,7 +12,7 @@ Além disso, partindo pro lado pessoal, gosto bastante de games e técnologia no
  :rocket:  &nbsp; Atualmente estou desemprega e sigo fazendo alguns jobs de design quando surgem e também alguns bicos com computadores, formatação, etc...
  <br/> :purple_heart: &nbsp; Busco estudar e colaborar melhor em projetos Fullstack.
  <br/> :blush: &nbsp; Posso te ajudar com CSS e HTML, e arrisco tentar ajudar com um pouco de Javascript básico.
- <br/> :computer: &nbsp; Minha *Futura* stack: ReactJS, Node.js, React Native & Typescript.
+ <br/> :computer: &nbsp; Minha ***Futura*** stack: ReactJS, Node.js, React Native & Typescript.
 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-vilopesp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilopesp/)](https://www.linkedin.com/in/grioos/) 
 [![Instagram Badge](https://img.shields.io/badge/-@_vilopesp_-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_vilopesp/)](https://www.instagram.com/grioos_/)
