@@ -6,8 +6,8 @@
 <h4> Sobre mim </h4>
 Eu sou a Viória, tenho 20 anos, estou no utlimo semestre do curso técnico de química pelo Centro Paula Souza, mas minha paixão é desenvolvimento.
 Faço jobs de design gráfico como freelancer à mais de quatro anos, comecei estudando desenvolvimento, mas depois de uma proposta de emprego em um escritório de marketing como designer de midias sociais, acabei deixando de lado. Meu desejo de voltar para a programação era grande, mas acabava deixando de lado; Quando começou a quarentena e acabei ficando mais parada, pensei... porque não? E cá estou eu, fazendo cursinhos aqui, cursinhos ali, e nlw agora. 
-
-Além disso, partindo pro lado pessoal, gosto bastante de games e técnologia no geral. Adoro a parte de hardware, e amo ver vídeos sobre hack, testes de penetração em segurança da informação, testes de falhas, etc... Gostaria de um dia conseguir chegar em um nível de conhecimento apto pra trabalhar com isso. Mas no geral, quando não estou estudando, estou jogando. :video_game:
+<br/>
+Além disso, partindo pro lado pessoal, gosto bastante de games e técnologia no geral. Adoro a parte de hardware, e amo ver vídeos sobre hack, testes de penetração em segurança da informação, testes de falhas, etc... Gostaria de um dia conseguir chegar em um nível de conhecimento apto pra trabalhar com isso. Mas no geral, quando não estou estudando, estou jogando. :video_game:<br/>
 
  :rocket:  &nbsp; Atualmente estou desemprega e sigo fazendo alguns jobs de design quando surgem e também alguns bicos com computadores, formatação, etc...
  <br/> :purple_heart: &nbsp; Busco estudar e colaborar melhor em projetos Fullstack.
