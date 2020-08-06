@@ -1,23 +1,15 @@
-<img width="150px" src="https://avatars2.githubusercontent.com/u/64246018?s=460&u=3d07c48c53255d53e3406037c7f98af14fd98689&v=4">
-
 # Vitória Lopes
 
 ### Fala Dev, beleza? :rocket:
-<h4> Sobre mim </h4>
-Eu sou a Viória, tenho 20 anos, estou no utlimo semestre do curso técnico de química pelo Centro Paula Souza, mas minha paixão é desenvolvimento.
-Faço jobs de design gráfico como freelancer à mais de quatro anos, comecei estudando desenvolvimento, mas depois de uma proposta de emprego em um escritório de marketing como designer de midias sociais, acabei deixando de lado. Meu desejo de voltar para a programação era grande, mas acabava deixando de lado; Quando começou a quarentena e acabei ficando mais parada, pensei... porque não? E cá estou eu, fazendo cursinhos aqui, cursinhos ali, e nlw agora. <br>
+Amo profundamente programação e a sua maneira de lidar com os problemas do mundo tecnológico. Gostaria de um dia ser uma Hacker Ética, mas pra isso preciso ter conhecimento de muitas stacks e tecnologias e, nesse meio tempo, estudo nas hora vagas para me tornar uma desenvolvedora Fullstack. Além disso, estou no último semestre do curso técnico de Química.:alembic:	
 
-Além disso, partindo pro lado pessoal, gosto bastante de games e técnologia no geral. Adoro a parte de hardware, e amo ver vídeos sobre hack, testes de penetração em segurança da informação, testes de falhas, etc... Gostaria de um dia conseguir chegar em um nível de conhecimento apto pra trabalhar com isso. Mas no geral, quando não estou estudando, estou jogando. :video_game:<br/>
+:office: Atualmente estou desempregada, empenhada em estudar programação, mas já trabalhei em escritório de Marketing Digital, como designer e atualmente, venho fazendo alguns freelas de design gráfico quando tenho oportunidades.
+:wink: Posso te ajudar com Javascript, HTML, CSS e Design gráfico ou de Interface.
+:black_circle: Minha Stack atual: NodeJS, React e React Native.
+:speech_balloon: Sobre mim: :computer: Gosto de programar, :video_game: Amo jogar jogos de FPS, Sobrevivencia e Estratégia, :headphones: Música :sushi: Comida Japonesa e :clapper: Series e Filmes
 
-:rocket:  &nbsp; Atualmente estou desemprega e sigo fazendo alguns jobs de design quando surgem e também alguns bicos com computadores, formatação, etc...
-:purple_heart: &nbsp; Busco estudar e colaborar melhor em projetos Fullstack.
-:blush: &nbsp; Posso te ajudar com CSS e HTML, e arrisco tentar ajudar com um pouco de Javascript básico.
-:computer: &nbsp; Minha ***Futura*** stack será ReactJS, Node.js, React Native & Typescript.
-
- <br> :email: &nbsp; Bora fazer uma networking:
-[![Linkedin Badge](https://img.shields.io/badge/-vilopesp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilopesp/)](https://www.linkedin.com/in/grioos/) 
-[![Instagram Badge](https://img.shields.io/badge/-@_vilopesp_-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_vilopesp/)](https://www.instagram.com/grioos_/)
-
-[![Twitter Badge](https://img.shields.io/twitter/follow/_vilopesp?style=social)](https://twitter.com/_vilopesp)
-
-
+:email: Bora fazer uma networking?<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilopesp/)](https://www.linkedin.com/in/vilopesp/)    
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:vilopesp@hotmail.com)](mailto:vilopesp@hotmail.com)     
+[![Instagram Badge](https://img.shields.io/badge/-@_vilopesp_-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_vilopesp/)](https://www.instagram.com/grioos_/)    
+[![Hotmail Badge](https://img.shields.io/badge/-Twitter-0078D4?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_vilopesp)](https://twitter.com/_vilopesp)    
