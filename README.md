@@ -1,11 +1,10 @@
 # Vitória Lopes
 
 ### Fala Dev, beleza? :rocket:
-Amo profundamente programação e a sua maneira de lidar com os problemas do mundo tecnológico. Quero um dia me tornar uma Hacker Ética, mas pra isso preciso ter um conhecimento amplo de muitas stacks e tecnologias e, nesse meio tempo, estudo nas hora vagas para me tornar uma desenvolvedora Fullstack. Além disso, estou no último semestre do curso técnico de Química.:alembic:	
+Amo profundamente programação e a sua maneira de lidar com os problemas do mundo tecnológico. Quero um dia me tornar uma Hacker Ética, sou apaixonada pela área de programação e segurança da informação, além disso gosto e estudo também desenvolvimento front-end em paralelo com hacking e SI. Além disso, tenho formação técnica em Química.:alembic:	
 
-:office: Atualmente estou desempregada, empenhada em estudar programação, mas já trabalhei em escritório de Marketing Digital, como designer e atualmente, venho fazendo alguns freelas de design gráfico quando tenho oportunidades. <br>
-:wink: Posso te ajudar com Javascript, HTML, CSS e Design gráfico ou de Interface.<br>
-:rocket: Minha Stack atual: NodeJS, React e React Native. <br>
+:office: Atualmente trabalho fora da minha área de formação e fora da área de técnologia, porém empenhada em conseguir uma chance na área de programação e desenvolvimento, mas já trabalhei em escritório de marketing digital como designer gráfica e atualmente faço alguns freelas de design gráfico quando tenho oportunidades pra conseguir uma grana para investir melhor nos estudos. <br>
+:wink: Atualmente estou estudando Python, mas tenho conhecimento em HTML, CSS, Javascript e Design/UI.
 :raising_hand: Sobre mim: :computer: Gosto de programar, :video_game: Amo jogos de FPS, sobrevivência e estratégia, :headphones: Música :sushi: Comida Japonesa e :clapper: Filmes e Séries. <br>
 
 :email: Bora fazer uma networking?<br><br>
