@@ -8,13 +8,12 @@
 
 <h3> Hello world :earth_americas: </h3>
   
-<p>I deeply love programming and its way of dealing with the problems of the technological world. I am passionate about programming and cybersecurity. I am studying front-end development in parallel with ethical hacking. :rocket: </p>
+<p>I deeply love programming and its way of dealing with the problems of the technological world that we live. I am passionate about programming and UI/UX Design, and at the moment I am deepening and focusing my studies in these two areas. :rocket: </p>
 
-<p>I am graduated in Chemical Technician, but I do not work in either areas (chemistry or technology), but I am committed to getting my chance in the area of programming and development. :woman_scientist: </p>
+<p>I have already worked in a digital marketing office as a graphic designer for social media. But I really love the UI/UX design area and currently do some design freelance work when I have opportunities to get money to invest better in my studies. :art: </p> <br>
 
-<p>I have already worked in a digital marketing office as a graphic designer for social networks. I really love the UI/UX design area and currently do some graphic design freelance work when I have opportunities to get money to invest better in my studies. :art: </p> <br>
- 
-:memo: I'm currently studying Python while deepening my knowledge of HTML and CSS.
+<p>I am graduated in Chemical Technician, but I do not work in either areas (chemistry or technology), but I am committed to getting my chance in the area of front-end development or UI/UX Design. :woman_scientist: </p>
+
 <hr>
 
 <h3 align="center"> :pushpin: MY CARDS: </h3> 
