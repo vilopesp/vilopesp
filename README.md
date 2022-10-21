@@ -11,8 +11,6 @@
 
 - 👨‍💻 Want to study with me? Let's talk and **share some knowledge**
 
-<br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
