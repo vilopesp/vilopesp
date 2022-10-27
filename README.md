@@ -1,4 +1,4 @@
-<img align="right" height="510em"       src="https://gist.githubusercontent.com/vilopesp/be4a24d499cd04fed912080b48762f24/raw/68cb4b2be533dec20a16dfa929dcd0b13708aa3d/badge.svg"/>
+<img align="right" height="510em"       src="https://gist.githubusercontent.com/vilopesp/28c45413d85f147c262f414d2509ecc6/raw/84fe745ef34ab4650c25d529fa09abf32bce83d6/badge.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitória Lopes</h1>
 
 - 🔥 Web development student focused on front-end development
