@@ -6,8 +6,6 @@
 
 - 💬 Current learning **JavaScript and React**
 
-- ⚡ Fun fact: I'm not funny
-
 - 👨‍💻 Want to study with me? Let's talk and **share some knowledge**
 
 ## 🛠 &nbsp;Tech Stack
