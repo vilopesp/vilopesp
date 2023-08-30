@@ -4,7 +4,7 @@
 
 - 🔥 I’m currently working as **freelancer graphic designer**
 
-- 💬 Current learning **JavaScript and React**
+- 💬 Current learning **Front End Development (Javascript and React)**
 
 - 👨‍💻 Want to study with me? Let's talk and **share some knowledge**
 
